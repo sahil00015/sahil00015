@@ -137,7 +137,7 @@ class SahilKumar:
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Exploring **Cloud Computing & DevOps**
 - 💬 Ask me about **Python, JavaScript, React, ML**
-- 📫 How to reach me: **sahilkumar@example.com**
+- 📫 How to reach me: **sahil7206088346@gmail.com**
 - ⚡ Fun fact: **I debug with coffee and solve problems with curiosity!**
 
 ---
